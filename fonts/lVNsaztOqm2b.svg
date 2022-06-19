@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Внутренняя ошибка - Антиплагиат</title>
+        <link href="../css/google_1.css" rel="stylesheet" type="text/css">	
+	<link rel="shortcut icon" href="../favicon_1.ico" type="image/x-icon">
+	<link rel="icon" href="../favicon_1.ico" type="image/x-icon">
+	<link href="../css/cmsUx.min.css" rel="stylesheet" type="text/css">
+	<link href="../css/my.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="general">
+		<header>
+			<div class="header-inner">
+				<div class="logo">
+					<a class="ap" href="/" title="Антиплагиат"></a>
+					<div class="partners">
+						<a class="skolkovo" href="https://sk.ru/news/" target="_blank" rel="nofollow" title="Фонд развития инновационного центра Сколково"></a>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main>
+			<div class="main-inner">
+				<div class="empty">
+					<div class="code">500</div>
+					<div class="message">Что-то пошло не так</div>
+					<div class="desc">Похоже, сейчас нет доступа к этой странице.
+					Не волнуйтесь, мы скоро это исправим.</div>
+					<div class="nav">
+						Перейти на <a href="/" title="главную страницу">главную страницу</a>
+					</div>
+				</div>
+			</div>
+		</main>
+		<footer>
+			<div class="delay"></div>
+			<div class="footer-menu">
+				<div class="footer-menu-inner">
+					<div class="footer-menu-nav">
+						<div><a href="/" title="Главная">Главная</a></div>
+						<div><a href="/releases" title="История обновлений">История обновлений</a></div>
+						<div><a href="/page/help" title="Помощь">Помощь</a></div>
+						<div><a href="/page/contacts" title="Контакты">Контакты</a></div>
+						<div class="support"><a href="tel:74952232384">+7 495 223-23-84</a></div>
+						<div class="support"><a href="mailto:fdbck@antiplagiat.ru">fdbck@antiplagiat.ru</a></div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-law">
+				<div class="footer-law-inner">
+					<div class="footer-law-nav">
+						<div><a href="https://corp.antiplagiat.ru/" title="Сайт для корпоративных клиентов" target="_blank">Сайт для корпоративных клиентов</a></div>
+					</div>
+					<span class="all-rights-reserved">АО "Антиплагиат" 2005-2022 © Все права защищены</span>
+				</div>
+			</div>
+		</footer>
+	</div>
+</body>
+</html>
