@@ -1,0 +1,1 @@
+function setYMMainCounter(n,e){"undefined"!=typeof $yaMainCounter&&"function"==typeof ym&&(null!=e||(e="reachGoal"),ym($yaMainCounter,e,n))}function setGAMainCounter(n,e,t,o){"undefined"!=typeof $gaMainCounter&&"function"==typeof ga&&setGACounter($gaMainCounter,n,e,t,o)}

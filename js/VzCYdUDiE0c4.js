@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".accept-cookie .accept-cookie-btn").click((function(c){c.preventDefault(),c.stopPropagation();var e=$(this);return $.ajax({type:"POST",url:"/Account/AcceptCookie",success:function(c,o){e.closest(".accept-cookie").remove()}}),!1}))}));
